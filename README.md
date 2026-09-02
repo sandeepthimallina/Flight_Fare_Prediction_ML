@@ -108,3 +108,12 @@ Flight_Fare_Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
+---
+
+## 👩‍💻 Author
+
+**Sandeepthi Mallina**
+
+Aspiring Python & Machine Learning Developer
